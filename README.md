@@ -1,6 +1,6 @@
-## 👏 Hi, I'm *your name here*
+## 👏 Hi, I'm Adam Daoud
 ##  About Me
-_Share some information about yourself, including your class, major, jobs, and extra-curriculars._
+I co-own vela coffee in downtown san antonio, and I'm a Junior studying cybersecurity at utsa
 ## ⚒️ Skills
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
